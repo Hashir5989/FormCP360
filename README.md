@@ -1,2 +1,4 @@
-public form list 
+install php mailer
+
+public view
 /form-list
